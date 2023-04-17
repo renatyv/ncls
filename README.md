@@ -26,6 +26,7 @@ http://dx.doi.org/10.1093/bioinformatics/btz615
 ## Install
 
 ```
+pip install cython
 pip install ncls
 ```
 
